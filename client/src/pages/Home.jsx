@@ -24,7 +24,7 @@ const Home = () => {
     <><DisplayCampaigns
       title="All Campaigns"
       isLoading={isLoading}
-      campaigns={campaigns} /><h2>hi baby</h2></>
+      campaigns={campaigns} /></>
   )
 }
 
