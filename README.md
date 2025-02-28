@@ -3,6 +3,8 @@
 # Overview
 
 This is a decentralized crowdfunding platform built using React, Solidity, Thirdweb, and Hardhat. Users can connect their MetaMask wallets, create campaigns, and contribute to fundraisers securely on the blockchain. The project utilizes Thirdweb SDK for seamless Web3 integration and React Router for navigation. Below is an overview of the analysis, along with sample outputs and results. This project was done in May' 2024.
+![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)
+
 
 ---
 
